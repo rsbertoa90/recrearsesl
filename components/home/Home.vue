@@ -1,5 +1,8 @@
 <template>
     <div>
+        <client-only>
+            
+        </client-only>
         <div style="padding-bottom: 100px;">
             <Head/>  
             <HomeBody/>

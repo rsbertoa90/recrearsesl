@@ -1,8 +1,8 @@
 <template>
  <v-container :width="containerWidth">
-        <div class="d-flex flex-column pl-4 " :class="{'text-center' : mq != lg}" style="font-size: 30px;">
+        <div class="d-flex flex-column pl-4 " :class="{'text-center' : mq != 'lg'}" style="font-size: 30px;">
     
-            <div class="mt-4" :class="{'text-center' : mq != lg}">
+            <div class="mt-4" :class="{'text-center' : mq != 'lg'}">
                     <span class="subt">
                         CUANDO ?
                     </span>
@@ -11,7 +11,7 @@
                         24 de Noviembre 18hs
                     </span>
             </div>
-            <div class="mt-4" :class="{'text-center' : mq != lg}">
+            <div class="mt-4" :class="{'text-center' : mq != 'lg'}">
                 <span class="subt">
                     DONDE ?
                 </span>
