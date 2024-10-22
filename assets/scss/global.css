@@ -1,0 +1,50 @@
+a{
+    text-decoration: none !important;
+    color: #000;
+}
+.bordered{
+    border:1px solid black;
+}
+.yesteryear{   
+    font-family: 'Be Vietnam', sans-serif!important;
+}
+
+.w-100{
+    width:100%;
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: rgba(0, 0, 0, .1);
+}
+
+.fc{
+    display: flex;
+    flex-direction: column;
+}
+
+.fcc{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* align-items: center;
+    width:100%; */
+}
+
+.adminDiscountPrice{
+    color:blue;
+    font-size: 12px;
+}
+
+.relative{
+    position: relative;
+}
+
+.d-none-input{
+    height: 100%;
+    width:100%;
+    cursor:pointer;
+    position: absolute;
+    top:0;
+    left:0;
+    opacity: 0;
+  }
