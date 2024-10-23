@@ -12,5 +12,10 @@ export default defineNuxtConfig({
     families:{
       'Be Vietnam':true
     }
-  }
+  },
+  app: {
+    head: {
+        link: [{ rel: 'icon', type: 'image/png', href: '/mano.png' }]
+    }
+},
 })
