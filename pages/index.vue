@@ -10,8 +10,10 @@ useHead({
     title:'Recrearse Sueños Lúcidos',
     meta:[
         {
+            
             name:'description' , content:'Taller presencial de sueños lúcidos en Tandil el domingo 24 de noviembre de 2024 en Familia Green. Av. Marconi 1101'
-        }
+        },
+        
     ]
 })
 

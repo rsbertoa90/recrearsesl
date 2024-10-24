@@ -15,7 +15,7 @@ export default defineNuxtConfig({
   },
    app: {
     head: {
-        link: [{ rel: 'icon', type: 'image/png', href: '/mano.png' }]
+        link: [{ rel: 'icon', type: 'image/png', href: '/img/mano.png' }]
     }
 }, 
 })
