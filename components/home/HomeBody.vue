@@ -1,6 +1,6 @@
 <template>
  <v-container :width="containerWidth">
-        <div class="d-flex flex-column pl-4 " :class="{'text-center' : mq != 'lg'}" style="font-size: 30px;">
+        <div class="d-flex flex-column pl-4 body-text" :class="{'text-center' : mq != 'lg'}" >
     
             <div class="mt-4" :class="{'text-center' : mq != 'lg'}">
                     <span class="subt">
@@ -30,7 +30,7 @@
                     Escribinos por Whatsapp al 11 2408 5256 y coordinamos  
                 </v-col>
                 <v-col cols="12" lg="3">
-                    <v-btn  class="ml-4" color="#E21260" link  :href="whatsappUrl" target="_blank" >ESCRIBIR POR WHATSAPP</v-btn>
+                    <v-btn large class="ml-4" color="#E21260" link  :href="whatsappUrl" target="_blank" >ESCRIBIR POR WHATSAPP</v-btn>
                 </v-col>
             </v-row>
             
@@ -73,5 +73,14 @@
   
     color: #E21260;
     font-weight: bold;
+}
+.body-text{
+    font-size: 30px;
+}
+
+@media(max-width:600px){
+    .body-text{
+        font-size: 18px;
+    }
 }
 </style>
