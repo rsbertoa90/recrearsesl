@@ -7,7 +7,8 @@
             <Head/>  
             <HomeBody/>
             <HomeSocial/>
-        </div>
+            <HomeFaq class="mt-4"/>
+        </div> 
         <HomeMomwebfooter/>
     </div>
 </template>
