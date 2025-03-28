@@ -11,7 +11,7 @@ useHead({
     meta:[
         {
             
-            name:'description' , content:'Taller presencial de sueños lúcidos en Tandil el domingo 24 de noviembre de 2024 en Familia Green. Av. Marconi 1101'
+            name:'description' , content:'Taller presencial de sueños lúcidos en Tandil el domingo 27 de abril de 2025 a las 16hs en Espacio Surya. Paz 1259'
         },
         
     ]

@@ -8,7 +8,7 @@
                     </span>
                     <br v-if="mq=='mob'">
                     <span>
-                        24 de Noviembre 18hs
+                        Domingo 27 de abril de 2025, 16hs
                     </span>
             </div>
             <div class="mt-4" :class="{'text-center' : mq != 'lg'}">
@@ -17,11 +17,11 @@
                 </span>
                 <br v-if="mq=='mob'">
                 <span>
-                    Av. Marconi 1101, TANDIL en cafetería Familia Green 
+                    Espacio Surya. Calle Paz 1259, TANDIL.
                 </span>
             </div>
             <div class=" mt-4 bordered subt">
-                CUPOS LIMITADOS     <br v-if="mq=='mob'"> Reservá tu lugar por tan solo $2000
+                CUPOS LIMITADOS     <br v-if="mq=='mob'"> Reservá tu lugar por tan solo $10.000
             </div>
         
             <v-row class="mt-4">
