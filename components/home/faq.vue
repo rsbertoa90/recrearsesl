@@ -19,9 +19,9 @@
     const faq = [
         {question:'¿ Cuales son los requisitos ?' , answer:'Ninguno!, cualquier persona puede participar del taller.'},
         {question:'¿ Quien da el taller ?' , answer:'Somos Rodrigo y Gisella, lo hacemos de forma independiente y no representamos a ninguna institución.'},
-        {question:'¿ Cuanto cuesta ?' , answer:' $10.000 por persona.'},
+        {question:'¿ Cuanto cuesta ?' , answer:' $10.000 por persona. ( Reservá tu lugar con el 50%, terminás de abonar el día del taller  )'},
         {question:'¿ Cómo reservo mi lugar ?' , answer:'Por Whatsapp, escribinos al 11-2408-5256 y coordinamos'},
-        {question:'¿ Cuanto dura el taller ?' , answer:'Aproximadamente una hora y media mas el tiempo que lleve responder preguntas.'},
+        {question:'¿ Cuanto dura el taller ?' , answer:'Aproximadamente dos horas mas el tiempo que lleve responder preguntas.'},
         {question:'¿ Que temas se dan ?' , answer:'Que son los sueños lúcidos, que beneficios trae el trabajo con los sueños, como tener sueños lucidos intencionalmente.'},
     ]
 </script>
