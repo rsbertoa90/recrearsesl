@@ -21,7 +21,7 @@
                 </span>
             </div>
             <div class=" mt-4 bordered subt">
-                CUPOS LIMITADOS     <br v-if="mq=='mob'"> Reservá tu lugar por tan solo $10.000
+                CUPOS LIMITADOS     <br v-if="mq=='mob'"> Reservá tu lugar!
             </div>
         
             <v-row class="mt-4">
