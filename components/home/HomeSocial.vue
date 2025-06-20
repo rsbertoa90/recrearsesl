@@ -14,8 +14,8 @@
 
 <script setup>
 const whatsappUrl = 'https://api.whatsapp.com/send?phone=541124085256&text=Hola%20te%20escribo%20por%20el%20taller%20de%20sueños%20lucidos'
-const fburl = 'https://www.facebook.com/search/top?q=re%20crearse%20sue%C3%B1os%20l%C3%BAcidos'
-const instaurl = 'https://www.instagram.com/gigi.creando/'
+const fburl = 'https://www.facebook.com/ReCrearseSuenosLucidos'
+const instaurl = 'https://www.instagram.com/recrearsesuenoslucidos/'
 const mq = useMq();
 </script>
 
