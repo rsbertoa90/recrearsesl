@@ -8,10 +8,10 @@ const styles = {
   "components/home/faq.vue": () => import('./faq-styles.COXmb03w.mjs').then(interopDefault),
   "components/home/Momwebfooter.vue": () => import('./Momwebfooter-styles.ydhGmAEp.mjs').then(interopDefault),
   "components/home/HomeBody.vue": () => import('./HomeBody-styles.Bjl_fMGO.mjs').then(interopDefault),
-  "components/home/HomeHead.vue": () => import('./HomeHead-styles.BkE2eRh3.mjs').then(interopDefault),
   "components/home/faq.vue?vue&type=style&index=0&scoped=7b6c4b68&lang.css": () => import('./faq-styles.CwrcTZ5O.mjs').then(interopDefault),
   "components/home/Momwebfooter.vue?vue&type=style&index=0&scoped=5aa3de7b&lang.css": () => import('./Momwebfooter-styles.DjjowADg.mjs').then(interopDefault),
   "components/home/HomeBody.vue?vue&type=style&index=0&scoped=9ff3d95e&lang.css": () => import('./HomeBody-styles.sAiANHgW.mjs').then(interopDefault),
+  "components/home/HomeHead.vue": () => import('./HomeHead-styles.BkE2eRh3.mjs').then(interopDefault),
   "components/home/HomeHead.vue?vue&type=style&index=0&scoped=fac9af8e&lang.css": () => import('./HomeHead-styles.CHvBFxgl.mjs').then(interopDefault)
 };
 
